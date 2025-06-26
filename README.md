@@ -1,6 +1,6 @@
 # 🧱 Template Vault
 
-A growing collection of reusable templates and starter kits for building SaaS apps, tools, and full-stack projects. Built and curated by Michael for faster and cleaner development workflows.
+A growing collection of reusable templates and starter kits for building SaaS apps, tools, and full-stack projects. Built and curated by MJ for faster and cleaner development workflows.
 
 ---
 
@@ -10,7 +10,7 @@ This repo contains modular, production-ready building blocks:
 
 | Folder                | Description                                               |
 | --------------------- | --------------------------------------------------------- |
-| `ClerkCustomFlows`    | Clerk + Next.js setup with custom UI flows and reusable auth patterns        |
+| `ClerkCustomFlows`    | Clerk + Next.js setup with custom authentication flows         |
 
 > Each folder includes its own README and usage instructions.
 
