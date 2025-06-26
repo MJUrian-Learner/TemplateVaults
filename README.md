@@ -10,7 +10,7 @@ This repo contains modular, production-ready building blocks:
 
 | Folder                | Description                                               |
 | --------------------- | --------------------------------------------------------- |
-| `ClerkCustomFlows`    | Clerk + Next.js setup with custom authentication flows         |
+| `clerk-custom-flows`    | Clerk + Next.js setup with custom authentication flows         |
 
 > Each folder includes its own README and usage instructions.
 
