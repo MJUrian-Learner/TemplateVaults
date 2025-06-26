@@ -1,6 +1,6 @@
 # Clerk Custom Flows
 
-A custom-built authentication flow using Clerk and Next.js, designed for developers who want full control over the user experience and logic, beyond what Clerk's prebuilt components offer.
+A custom-built authentication flow using Clerk, Next.js, and Shadcn, designed for developers who want full control over the user experience and logic, beyond what Clerk's prebuilt components offer.
 
 ---
 
