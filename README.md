@@ -55,10 +55,7 @@ This repo contains modular, production-ready building blocks:
 * Next.js / React
 * Tailwind CSS
 * Clerk
-* n8n
 * TypeScript
-* PostgreSQL / Prisma
-* Docker (optional)
 
 ---
 
